@@ -1,5 +1,5 @@
 ## Seja Bem-Vindo
-**`Estudante de Engenharia da Computação` `Técnico em eletrônica`**
+**`Estudante de Engenharia da Computação`**
 
 Me chamo Gustavo Pimenta, tenho 22 anos e estou residindo em Belo Horizonte/MG. Conclui o Ensino Médio no CEFET-MG, com o curso técnico em eletrônica. Atualmente estou cursando Engenharia da Computação.
 
